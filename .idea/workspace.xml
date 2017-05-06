@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="000d71c1-e2c5-4259-b18a-fe6e56554a0c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/shop-app.html" afterPath="$PROJECT_DIR$/src/shop-app.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/shop-button.html" afterPath="$PROJECT_DIR$/src/shop-button.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="shop-button.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="shop-button.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/shop-button.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="628">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="50" selection-end-column="42" />
+              <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -37,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shop-app.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shop-app.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/shop-app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="379" column="56" lean-forward="false" selection-start-line="379" selection-start-column="56" selection-end-line="379" selection-end-column="56" />
+            <state relative-caret-position="88">
+              <caret line="130" column="23" lean-forward="false" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -148,8 +149,8 @@
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/shop-category-data.html" />
-        <option value="$PROJECT_DIR$/src/shop-button.html" />
         <option value="$PROJECT_DIR$/src/shop-app.html" />
+        <option value="$PROJECT_DIR$/src/shop-button.html" />
       </list>
     </option>
   </component>
@@ -357,15 +358,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494042632893</updated>
-      <workItem from="1494042634501" duration="12220000" />
+      <workItem from="1494042634501" duration="12488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12220000" />
+    <option name="totallyTimeSpent" value="12488000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1023" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -595,18 +596,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shop-button.html">
+    <entry file="file://$PROJECT_DIR$/src/shop-app.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="50" selection-end-column="42" />
+        <state relative-caret-position="88">
+          <caret line="130" column="23" lean-forward="false" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shop-app.html">
+    <entry file="file://$PROJECT_DIR$/src/shop-button.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="379" column="56" lean-forward="false" selection-start-line="379" selection-start-column="56" selection-end-line="379" selection-end-column="56" />
+        <state relative-caret-position="628">
+          <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
           <folding />
         </state>
       </provider>
