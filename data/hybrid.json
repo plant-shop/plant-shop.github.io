@@ -1,0 +1,11 @@
+[
+  {
+    "name":"Pineapple+Express",
+    "title":"Pineapple Express",
+    "category":"hybrid",
+    "price":12.00,
+    "description":"A tropical hybrid with landrace ancestry traced back the Hawaiian Islands.",
+    "image":"/data/images/10-15068B.jpg",
+    "largeImage":"/data/images/10-15068A.jpg"
+  }
+]
