@@ -35,7 +35,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         padding-top: 130px;
         padding-bottom: 64px;
         min-height: 100vh;
-        --app-primary-color: var(--paper-light-green-900);
+        --app-primary-color: var(--paper-grey-900);
         --app-secondary-color: var(--paper-light-green-900);
         --app-accent-color: var(--paper-light-green-500);;
         --paper-button-ink-color: var(--app-accent-color);
@@ -203,6 +203,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         font-weight: bold;
       }
 
+      .logo {
+        width: 100px;
+        margin-top: 4px;
+      }
+
       shop-cart-modal {
         z-index: 2;
       }
@@ -291,9 +296,9 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             <paper-icon-button icon="arrow-back" aria-label="Go back"></paper-icon-button>
           </a>
         </div>
-        <div class="logo" main-title=""><a href="/" aria-label="PLANT SHOP Home">PLANT SHOP</a></div>
-        <div class="cart-btn-container">
-          <a href="/cart" tabindex="-1">
+        <div class="logo" main-title=""><a href="/" aria-label="PUREBUD Home"><img class="logo" src="/images/logo.png" <="" a=""></a></div><a href="/" aria-label="PUREBUD Home">
+        </a><div class="cart-btn-container"><a href="/" aria-label="PUREBUD Home">
+          </a><a href="/cart" tabindex="-1">
             <paper-icon-button icon="shopping-cart" aria-label$="Shopping cart: [[_computePluralizedQuantity(numItems)]]"></paper-icon-button>
           </a>
           <div class="cart-badge" aria-hidden="true" hidden$="[[!numItems]]">[[numItems]]</div>

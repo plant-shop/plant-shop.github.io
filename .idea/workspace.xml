@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="000d71c1-e2c5-4259-b18a-fe6e56554a0c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/default/index.html" afterPath="$PROJECT_DIR$/build/default/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/default/src/shop-app.html" afterPath="$PROJECT_DIR$/build/default/src/shop-app.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/shop-app.html" afterPath="$PROJECT_DIR$/src/shop-app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/shop-button.html" afterPath="$PROJECT_DIR$/src/shop-button.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="shop-button.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shop-button.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/shop-button.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+            <state relative-caret-position="163">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shop-app.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="shop-app.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/shop-app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="130" column="23" lean-forward="false" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
+            <state relative-caret-position="263">
+              <caret line="38" column="49" lean-forward="false" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="color.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/color.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1168">
+              <caret line="204" column="6" lean-forward="false" selection-start-line="204" selection-start-column="6" selection-end-line="204" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -61,8 +74,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="543">
+              <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -73,16 +86,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="65" lean-forward="false" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -147,10 +150,10 @@
         <option value="$PROJECT_DIR$/src/shop-cart-item.html" />
         <option value="$PROJECT_DIR$/src/shop-detail.html" />
         <option value="$PROJECT_DIR$/manifest.json" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/shop-category-data.html" />
-        <option value="$PROJECT_DIR$/src/shop-app.html" />
         <option value="$PROJECT_DIR$/src/shop-button.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/shop-app.html" />
       </list>
     </option>
   </component>
@@ -223,39 +226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plant-shop.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plant-shop.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plant-shop.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plant-shop.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="paper-styles" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -351,6 +322,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="000d71c1-e2c5-4259-b18a-fe6e56554a0c" name="Default" comment="" />
@@ -358,15 +332,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494042632893</updated>
-      <workItem from="1494042634501" duration="12488000" />
+      <workItem from="1494042634501" duration="13360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12488000" />
+    <option name="totallyTimeSpent" value="13360000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1023" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -433,14 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/color.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="204" column="29" lean-forward="false" selection-start-line="204" selection-start-column="6" selection-end-line="204" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -572,14 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/shop-category-data.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
@@ -596,18 +554,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shop-app.html">
+    <entry file="file://$PROJECT_DIR$/src/shop-button.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="130" column="23" lean-forward="false" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
+        <state relative-caret-position="163">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shop-button.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        <state relative-caret-position="543">
+          <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/color.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1168">
+          <caret line="204" column="6" lean-forward="false" selection-start-line="204" selection-start-column="6" selection-end-line="204" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shop-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="38" column="49" lean-forward="false" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
           <folding />
         </state>
       </provider>
