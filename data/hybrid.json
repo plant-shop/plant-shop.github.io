@@ -5,7 +5,43 @@
     "category":"hybrid",
     "price":12.00,
     "description":"A tropical hybrid with landrace ancestry traced back the Hawaiian Islands.",
-    "image":"/data/images/10-15068B.jpg",
-    "largeImage":"/data/images/10-15068A.jpg"
+    "image":"/images/products/22.jpg",
+    "largeImage":"/images/products/22.jpg"
+  },
+    {
+    "name":"Duke+Nukem",
+    "title":"Duke Nukem",
+    "category":"hybrid",
+    "price":12.00,
+    "description":"A tropical hybrid with landrace ancestry traced back the Hawaiian Islands.",
+    "image":"/images/products/15.jpg",
+    "largeImage":"/images/products/15.jpg"
+  },
+    {
+    "name":"Blueberry+Dream",
+    "title":"Blueberry Dream",
+    "category":"hybrid",
+    "price":12.00,
+    "description":"A tropical hybrid with landrace ancestry traced back the Hawaiian Islands.",
+    "image":"/images/products/16.jpg",
+    "largeImage":"/images/products/16.jpg"
+  },
+  {
+    "name":"Big+Buddha+Cheese",
+    "title":"Big Buddha Cheese",
+    "category":"hybrid",
+    "price":12.00,
+    "description":"",
+    "image":"/images/products/23.jpg",
+    "largeImage":"/images/products/23.jpg"
+  },
+  {
+    "name":"Charlottes+Web",
+    "title":"Charlotte's Web",
+    "category":"hybrid",
+    "price":12.00,
+    "description":"",
+    "image":"/images/products/18.jpg",
+    "largeImage":"/images/products/18.jpg"
   }
 ]

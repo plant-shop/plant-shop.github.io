@@ -1,0 +1,21 @@
+[
+  {
+    "name":"CBD+Tinctures",
+    "title":"CBD Tinctures",
+    "category":"cbd",
+    "price":120.00,
+    "description":"The Magic-Flight Launch Box Kit includes everything you need right out of the box!",
+    "image":"/images/oil.png",
+    "largeImage":"/images/oil.png"
+  },
+  {
+    "name":"Purebud+Soaps",
+    "title":"Purebud Soaps",
+    "category":"cbd",
+    "price":120.00,
+    "description":"The Magic-Flight Launch Box Kit includes everything you need right out of the box!",
+    "image":"/images/soap.png",
+    "largeImage":"/images/soap.png",
+    "hasFlavours": true
+  }
+]

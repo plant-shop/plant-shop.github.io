@@ -5,7 +5,43 @@
     "category":"sativa",
     "price":12.00,
     "description":"A tropical hybrid with landrace ancestry traced back the Hawaiian Islands.",
-    "image":"/data/images/10-15068B.jpg",
-    "largeImage":"/data/images/10-15068A.jpg"
+    "image":"/images/products/6.jpg",
+    "largeImage":"/images/products/6.jpg"
+  },
+  {
+    "name":"Green+Crack",
+    "title":"Green Crack",
+    "category":"sativa",
+    "price":12.00,
+    "description":"A tropical hybrid with landrace ancestry traced back the Hawaiian Islands.",
+    "image":"/images/products/5.jpg",
+    "largeImage":"/images/products/5.jpg"
+  },
+  {
+    "name":"Island+Jack",
+    "title":"Island Jack",
+    "category":"sativa",
+    "price":12.00,
+    "description":"A tropical hybrid with landrace ancestry traced back the Hawaiian Islands.",
+    "image":"/images/products/4.jpg",
+    "largeImage":"/images/products/4.jpg"
+  },
+    {
+    "name":"Viper",
+    "title":"Viper",
+    "category":"sativa",
+    "price":12.00,
+    "description":"",
+    "image":"/images/products/3.jpg",
+    "largeImage":"/images/products/3.jpg"
+  },
+  {
+    "name":"Kootaney+Thunder",
+    "title":"Kootaney Thunder",
+    "category":"sativa",
+    "price":12.00,
+    "description":"",
+    "image":"/images/products/7.jpg",
+    "largeImage":"/images/products/7.jpg"
   }
 ]

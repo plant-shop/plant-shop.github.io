@@ -1,11 +1,56 @@
 [
   {
-    "name":"Pineapple+Express",
-    "title":"Pineapple Express",
+    "name":"Sleeping+Beauty",
+    "title":"Sleeping Beauty",
+    "category":"indica",
+    "price":8.00,
+    "description":"A tropical hybrid with landrace ancestry traced back the Hawaiian Islands.",
+    "image":"/images/products/25.jpg",
+    "largeImage":"/images/products/25.jpg"
+  },
+  {
+    "name":"Pink+Kush",
+    "title":"Pink Kush",
     "category":"indica",
     "price":12.00,
-    "description":"A tropical hybrid with landrace ancestry traced back the Hawaiian Islands.",
-    "image":"/data/images/10-15068B.jpg",
-    "largeImage":"/data/images/10-15068A.jpg"
+    "description":"",
+    "image":"/images/products/10.jpg",
+    "largeImage":"/images/products/10.jpg"
+  },
+  {
+    "name":"G13",
+    "title":"G13",
+    "category":"indica",
+    "price":12.00,
+    "description":"",
+    "image":"/images/products/11.jpg",
+    "largeImage":"/images/products/11.jpg"
+  },
+  {
+    "name":"Organic+Mastercraft",
+    "title":"Organic Mastercraft",
+    "category":"indica",
+    "price":14.00,
+    "description":"",
+    "image":"/images/products/12.jpg",
+    "largeImage":"/images/products/12.jpg"
+  },
+  {
+    "name":"Gorillas+Breath",
+    "title":"Gorilla's Breath",
+    "category":"indica",
+    "price":14.00,
+    "description":"",
+    "image":"/images/products/13.jpg",
+    "largeImage":"/images/products/13.jpg"
+  },
+  {
+    "name":"Tuna+Kush",
+    "title":"Tuna Kush",
+    "category":"indica",
+    "price":12.00,
+    "description":"",
+    "image":"/images/products/14.jpg",
+    "largeImage":"/images/products/14.jpg"
   }
 ]

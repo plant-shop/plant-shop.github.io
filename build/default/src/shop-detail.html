@@ -6,7 +6,7 @@ The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
 The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
 Code distributed by Google as part of the polymer project is also
 subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
---><html><head><link rel="import" href="../bower_components/polymer/polymer-element.html">
+--><link rel="import" href="../bower_components/polymer/polymer-element.html">
 <link rel="import" href="../bower_components/app-route/app-route.html">
 <link rel="import" href="../bower_components/iron-flex-layout/iron-flex-layout.html">
 <link rel="import" href="shop-button.html">
@@ -15,7 +15,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 <link rel="import" href="shop-image.html">
 <link rel="import" href="shop-select.html">
 
-</head><body><dom-module id="shop-detail">
+<dom-module id="shop-detail">
 
   <template>
 
@@ -166,6 +166,20 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
               <shop-underline></shop-underline>
             </shop-md-decorator>
           </shop-select>
+          <dom-if if="[[item.hasFlavours]]">
+            <template>
+              <shop-select>
+                <label id="sizeLabel" prefix="">Scent</label>
+                <select id="sizeSelect" aria-labelledby="sizeLabel">
+                  <option value="Standard">Hemp</option>
+                  <option value="Expedited" selected="">Lavendar</option>
+                </select>
+                <shop-md-decorator aria-hidden="true">
+                  <shop-underline></shop-underline>
+                </shop-md-decorator>
+              </shop-select>
+            </template>
+          </dom-if>
         </div>
         <div class="description">
           <h2>Description</h2>
@@ -207,6 +221,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         offline: {
           type: Boolean,
           observer: '_offlineChanged'
+        },
+
+        _hasFlavours: {
+          type: Boolean,
+          value: false
         },
 
         failure: Boolean
@@ -280,4 +299,3 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   </script>
 
 </dom-module>
-</body></html>
